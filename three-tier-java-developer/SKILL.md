@@ -15,6 +15,8 @@ allowed-tools: Read, Write, Glob, Grep, Bash(mvn:*, gradle:*)
 | 快速開發 / POC / MVP | 長期維護專案 |
 | 標準業務流程 | 領域驅動設計（DDD） |
 
+> **灰色地帶（10–20 Entity）**：若業務邏輯簡單、團隊規模小，可先用三層式架構；若業務規則複雜或預期持續增長，建議直接採用 Clean Architecture 避免日後重構成本。
+
 ---
 
 ## 架構概覽
