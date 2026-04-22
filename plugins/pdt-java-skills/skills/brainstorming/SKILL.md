@@ -3,7 +3,7 @@ name: brainstorming
 description: 當需要建立新功能、新增行為或修改既有行為時，在實作前先使用此 skill 釐清需求與設計。
 allowed-tools: Read, Glob, Grep
 ---
-     
+hit
 # 需求探索與設計
 
 ## 鐵律
